@@ -1,4 +1,4 @@
-sudo tee -a ~/Desktop/local.conf <<EOF
+sudo tee -a /etc/fonts/local.conf <<EOF
 <?xml version="1.0"?>
 <!DOCTYPE fontconfig SYSTEM "fonts.dtd">
 <fontconfig>
